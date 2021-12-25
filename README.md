@@ -45,6 +45,9 @@ Torrent Hunt Bot is a telegram bot to search and explore torrents from different
 - [ET Tv](https://www.ettvcentral.com/)
 
 
+https://heroku.com/deploy
+
+
 # ⛲ Features
 
 - Superfast and good pagination
